@@ -2,6 +2,7 @@
 This repository contains a Power BI project that demonstrates data cleaning and transformation using Power Query, followed by report creation and publishing using Power BI Service.
 
 📌 Key Steps Performed
+
 1.Data Loading
 Loaded data into a new Power BI report.
 
